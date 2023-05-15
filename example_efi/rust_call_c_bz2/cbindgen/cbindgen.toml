@@ -1,0 +1,5 @@
+language = "C"
+
+# 设置生成的绑定代码的输出路径和文件名
+# output = "path/to/output.h"
+# cbindgen --config cbindgen.toml --crate your_crate_name --output path/to/output.h
